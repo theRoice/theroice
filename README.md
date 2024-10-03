@@ -1,4 +1,5 @@
-## Hi there 👋
+# Eric Leachman
+### Computer Science Major at Eastern Washington University with an emphasis on cyber security.s
 
 <!--
 **theRoice/theroice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
