@@ -1,5 +1,9 @@
 # Eric Leachman
-### Computer Science Major at Eastern Washington University with an emphasis on cyber security.
+## Major
+Bachelors of Science - Computer Science at Eastern Washington University
+- Emphasis on _cyber security_
+
+
 
 <!--
 **theRoice/theroice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
