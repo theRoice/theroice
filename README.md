@@ -1,7 +1,7 @@
 # Eric Leachman
 ## Major
 Bachelors of Science - Computer Science at Eastern Washington University
-- Emphasis on _cyber security_
+- Emphasis in _cyber security_
 
 
 
