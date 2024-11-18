@@ -2,10 +2,11 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxlY2ZmOXhsMnE2cjl1bnJ2ODVkMzlsM3pkejlhNmVld2Vna3Z2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4DNPcZOIcgnwA/giphy.gif" width="300"/>
 </div> 
 
-## 
-## Major
-Bachelors of Science - Computer Science at Eastern Washington University
-- Emphasis in _cyber security_
+## hey!
+#### About Me:
+I'm Eric. I currently attend Eastern Washington University as senior.
+- Majoring in computer science with a minor in cyber defense
+- I love computers, music, and all things stylized
 
 
 
