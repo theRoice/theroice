@@ -12,7 +12,7 @@
 </div>
 
 <div id="intro">
-  <h1>hey!</h1>
+  <h1>hey! :wave: </h1>
   <h4>About Me: </h4>
     <p>
       Hey there, I'm Eric. I currently attend Eastern Washington University as senior.
