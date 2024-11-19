@@ -12,10 +12,10 @@
 </div>
 
 <div id="intro">
-  <h1>hey! :wave: </h1>
+  <h1>hey there! :wave: </h1>
   <h4>About Me: </h4>
     <p>
-      Hey there, I'm Eric. I currently attend Eastern Washington University as senior.
+      My name is Eric. I currently attend Eastern Washington University as senior. I am:
       <ul>
         <li> Majoring in computer science with a minor in cyber defense
         <li> I love computers, music, and all things stylized
