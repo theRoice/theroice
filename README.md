@@ -11,12 +11,17 @@
 <img src="https://komarev.com/ghpvc/?username=TheRoice&style=flat-square&color=blue" alt=""/>  
 </div>
 
-## hey!
-#### About Me:
-I'm Eric. I currently attend Eastern Washington University as senior.
-- Majoring in computer science with a minor in cyber defense
-- I love computers, music, and all things stylized
-
+<div id="header" align="center">
+  <h1>hey!</h1>
+  <h4>About Me: </h4>
+    <p>
+      Hey there, I'm Eric. I currently attend Eastern Washington University as senior.
+      <ul>
+        <li> Majoring in computer science with a minor in cyber defense
+        <li> I love computers, music, and all things stylized
+      </ul>
+    </p>
+</div>
 
 
 <!--
