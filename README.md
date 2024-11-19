@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<div>
+<div id="visit-counter align="center">
 <img src="https://komarev.com/ghpvc/?username=TheRoice&style=flat-square&color=blue" alt=""/>  
 </div>
 
