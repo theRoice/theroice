@@ -11,20 +11,17 @@
 <img src="https://komarev.com/ghpvc/?username=TheRoice&style=flat-square&color=blue" alt=""/>  
 </div>
 
-<div id="intro">
-  <h1>hey there! :wave: </h1>
-  <h4>About Me: </h4>
-    <p>
-      My name is Eric. I currently attend Eastern Washington University as senior. I am:
-      <ul>
-        <li> 🏫 Majoring in computer science with a minor in cyber defense. </li>
-        <li> 🤖 Working to understand more technologies every day. </li>
-        <li> 🎹 Using my free time to learn more about sound, sound synthesis, and music production. </li>
-        <li> 🍣 Always trying to eat good food. </li>
-      </ul>
-    </p>
-</div>
-<hr/>
+# hey there! :wave:
+## About Me:
+    
+  My name is Eric. I currently attend Eastern Washington University as senior. I am:
+- 🏫 Majoring in computer science with a minor in cyber defense.
+- 🤖 Working to understand more technologies every day.
+- 🎹 Using my free time to learn more about sound, sound synthesis, and music production.
+- 🍣 Always trying to eat good food.
+
+---
+
 ### 🧰 Languages and Tools
 
 
