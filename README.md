@@ -24,9 +24,11 @@
       </ul>
     </p>
 </div>
-<br/>
 <hr/>
+### 🧰 Languages and Tools
 
+
+</div>
 <!--
 **theRoice/theroice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
