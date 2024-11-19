@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=TheRoice&style=flat-square&color=blue" alt=""/>  
 </div>
 
-<div id="header" align="center">
+<div id="intro">
   <h1>hey!</h1>
   <h4>About Me: </h4>
     <p>
