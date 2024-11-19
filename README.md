@@ -23,8 +23,6 @@
 - 🎹 Using my free time to learn more about sound, sound synthesis, and music production.
 - 🍣 Always trying to eat good food.
 
----
-
 ## 🧰 Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
