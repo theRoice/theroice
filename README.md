@@ -14,7 +14,7 @@
 # hey there! :wave:
 ## About Me:
     
-  My name is Eric. I currently attend Eastern Washington University as a senior. 
+  My name is Eric. I currently attend Eastern Washington University as a senior. I am on track to graduate Spring of 2025. 
   
   I am:
   
