@@ -17,8 +17,10 @@
     <p>
       My name is Eric. I currently attend Eastern Washington University as senior. I am:
       <ul>
-        <li> Majoring in computer science with a minor in cyber defense
-        <li> I love computers, music, and all things stylized
+        <li> 🏫 Majoring in computer science with a minor in cyber defense. </li>
+        <li> 🤖 Working to understand more technologies every day. </li>
+        <li> 🎹 Using my free time to learn more about sound, sound synthesis, and music production. </li>
+        <li> 🍣 Always trying to eat good food. </li>
       </ul>
     </p>
 </div>
