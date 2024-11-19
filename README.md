@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=TheRoice&style=flat-square&color=blue" alt=""/>  
 </div>
 
-# hey there! :wave:
+# Hey there! :wave:
 ## About Me:
     
   My name is Eric. I currently attend Eastern Washington University as a senior. I am on track to graduate Spring of 2025. 
