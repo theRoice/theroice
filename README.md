@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxlY2ZmOXhsMnE2cjl1bnJ2ODVkMzlsM3pkejlhNmVld2Vna3Z2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4DNPcZOIcgnwA/giphy.gif" width="300"/>
 </div> 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/eric-leachman-63848b13b/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
