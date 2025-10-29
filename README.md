@@ -14,7 +14,7 @@
 # Hey there! :wave:
 ## About Me:
     
-  My name is Eric. I currently attend Eastern Washington University as a senior. I am on track to graduate Spring of 2025. 
+  My name is Eric. BSCS Graduate of Eastern Washington University. Currently attending EWU as a cyber security graduate. 
   
   I am:
   
