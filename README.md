@@ -14,11 +14,11 @@
 # Hey there! :wave:
 ## About Me:
     
-  My name is Eric. BSCS Graduate of Eastern Washington University. Currently attending EWU as a cyber security graduate. 
+  My name is Eric. BSCS Graduate of Eastern Washington University. 
   
   I am:
   
-- 🏫 Majoring in computer science with a minor in cyber defense.
+- 🏫 Current graduate student in cyber security at EWU.
 - 🤖 Working to understand more technologies every day.
 - 🎹 Using my free time to learn more about sound, sound synthesis, and music production.
 - 🍣 Always trying to eat good food.
